@@ -5,8 +5,8 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-tahsin-k%C4%B1z%C4%B1lay/) 
 <a href="https://onurtahsin.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=onurtahsin" alt="visitor counter"/>
 </p>
-<h1 align="center">Hi 👋, I'm Onur Tahsin Kızılay</h1>
-<h3 align="center">A passionate full stack developer from Turkey</h3>
+<!-- <h1 align="center">Hi 👋, I'm Onur Tahsin Kızılay</h1> -->
+<!-- <h3 align="center">A passionate full stack developer from Turkey</h3> -->
 
 - 📫 How to reach me **kizilayonurtahsin@gmail.com**
 
@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/onur-tahsin-k%C4%B1z%C4%B1lay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/onur-tahsin-k%c4%b1z%c4%b1lay/" height="30" width="40" /></a>
 <a href="https://instagram.com/onurtahsinkizilay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onurtahsinkizilay" height="30" width="40" /></a>
+   <img src="https://komarev.com/ghpvc/?username=onurtahsin" alt="visitor counter"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
