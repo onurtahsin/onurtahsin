@@ -143,7 +143,7 @@
 
 <p align="center">
 	<a href="https://github.com/onurtahsin"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/yaser-demet-42731421b/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.linkedin.com/in/onur-tahsin-k%C4%B1z%C4%B1lay/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	
 </p>
 
