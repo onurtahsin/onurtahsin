@@ -1,7 +1,7 @@
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Onur+Tahsin+KIZILAY;Welcome+to+my+Github+profile;I'm+Fullstack+Developer...;)](https://git.io/typing-svg)
 <p align="center">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/onur-tahsin-k%c4%b1z%c4%b1lay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/onur-tahsin-k%c4%b1z%c4%b1lay/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/onur-tahsin-k%C4%B1z%C4%B1lay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/onur-tahsin-k%c4%b1z%c4%b1lay/" height="30" width="40" /></a>
 <a href="https://instagram.com/onurtahsinkizilay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onurtahsinkizilay" height="30" width="40" /></a>
 <img src="https://komarev.com/ghpvc/?username=onurtahsin" alt="visitor counter"/>
 </p>
